@@ -1,5 +1,5 @@
-
-bin/*
-obj/*
+# DotNet Core build files
+bin/
+obj/
 
 
