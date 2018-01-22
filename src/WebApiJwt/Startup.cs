@@ -15,7 +15,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using WebApiJwt.Contexts;
-using WebApiJwt.Entities;
+using WebApiJwt.Model;
 
 namespace WebApiJwt
 {

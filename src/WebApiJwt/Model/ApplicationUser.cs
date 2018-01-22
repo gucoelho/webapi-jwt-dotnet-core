@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 
-namespace WebApiJwt.Entities
+namespace WebApiJwt.Model
 {
     public class ApplicationUser : IdentityUser
     {

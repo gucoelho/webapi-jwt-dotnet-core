@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using WebApiJwt.Entities;
+using WebApiJwt.Model;
 
 namespace WebApiJwt.Contexts
 {

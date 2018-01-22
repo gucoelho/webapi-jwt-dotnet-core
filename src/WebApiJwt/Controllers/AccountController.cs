@@ -10,7 +10,7 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
-using WebApiJwt.Entities;
+using WebApiJwt.Model;
 using WebApiJwt.ViewModel;
 using Microsoft.AspNetCore.Authorization;
 
